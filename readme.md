@@ -67,8 +67,9 @@ console.log(randomSpinner());
 ## Related
 
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
-- [CLISpinner](https://github.com/kiliankoe/CLISpinner) - Terminal spinners for Swift
+- [CLISpinner](https://github.com/kiliankoe/CLISpinner) - Swift port
 - [py-spinners](https://github.com/ManrajGrover/py-spinners) - Python port
-- [spinners](https://github.com/FGRibreau/spinners) - Terminal spinners for Rust
+- [spinners](https://github.com/FGRibreau/spinners) - Rust port
 - [go-spinners](https://github.com/gabe565/go-spinners) - Go port
-- [bash-cli-spinners](https://github.com/simeg/bash-cli-spinners) - Terminal spinners in Bash
+- [bash-cli-spinners](https://github.com/simeg/bash-cli-spinners) - Bash port
+- [spinner.nvim](https://github.com/xieyonn/spinner.nvim) - Neovim port
